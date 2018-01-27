@@ -1,0 +1,13 @@
+{
+  "name": "raswall_db",
+  "version": "1.0.0",
+  "description": "Database wrapper of Redis and SQLITE for RasWall Firewall project",
+  "main": "src/index.js",
+  "author": "Boot-Error",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.8.0",
+    "sqlite3": "^3.1.13",
+    "winston": "^2.4.0"
+  }
+}
